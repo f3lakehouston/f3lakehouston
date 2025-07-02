@@ -1,0 +1,7 @@
+{
+  "$id": "northwest-passage",
+  "$schema": "./region.schema.json",
+  "regionName": "northwest-passage",
+  "cityName": "Cypress",
+  "stateName": "Texas"
+}
